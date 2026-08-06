@@ -141,8 +141,6 @@ fun_fact: "I turn coffee ☕ into clean pipelines and cleaner dashboards"
 | [🌐 **Django CMS Web Application**](https://github.com/MohtashimUsmani/Django-CMS-WebApp) | Authentication, CRUD, PostgreSQL & Responsive UI |
 | [📈 **Tesla vs GameStop Stock Analysis**](https://github.com/MohtashimUsmani/Gamestop-stock-vs-Tesla) | IBM Data Science guided project on financial data analysis |
 
-> 🔧 Replace `REPO-NAME-1..4` above with your actual repository names to activate the links.
-
 <br/>
 
 ## 📊 GitHub Analytics
@@ -173,8 +171,6 @@ fun_fact: "I turn coffee ☕ into clean pipelines and cleaner dashboards"
 <img src="https://raw.githubusercontent.com/MohtashimUsmani/MohtashimUsmani/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
-> 🔧 The snake animation needs a **one-time GitHub Action setup** in this repo. See the setup note at the bottom of this file — takes about 2 minutes.
 
 <br/>
 
