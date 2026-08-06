@@ -111,7 +111,7 @@ fun_fact: "I turn coffee ☕ into clean pipelines and cleaner dashboards"
 
 <div align="center">
 
-![Progress](https://progress-bar.dev/42/?title=5%20of%2012%20Courses%20Complete&width=500&color=00c6ff)
+![IBM Progress](https://img.shields.io/badge/IBM%20Data%20Science%20Progress-5%2F12%20Courses%20(42%25)-00c6ff?style=for-the-badge&logo=ibm&logoColor=white)
 
 </div>
 
