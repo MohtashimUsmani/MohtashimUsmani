@@ -136,10 +136,10 @@ fun_fact: "I turn coffee ☕ into clean pipelines and cleaner dashboards"
 
 | Project | Description |
 |---|---|
-| [💳 **FinTech Fraud Detection Pipeline**](https://github.com/MohtashimUsmani/REPO-NAME-1) | Enterprise-style fraud detection using Python & Machine Learning |
-| [📊 **SQL Data Analyst Project**](https://github.com/MohtashimUsmani/REPO-NAME-2) | CTEs, Window Functions, Data Cleaning & Business Insights |
-| [🌐 **Django CMS Web Application**](https://github.com/MohtashimUsmani/REPO-NAME-3) | Authentication, CRUD, PostgreSQL & Responsive UI |
-| [📈 **Tesla vs GameStop Stock Analysis**](https://github.com/MohtashimUsmani/REPO-NAME-4) | IBM Data Science guided project on financial data analysis |
+| [💳 **FinTech Fraud Detection Pipeline**](https://github.com/MohtashimUsmani/FinTech-Fraud-Detection-Pipeline) | Enterprise-style fraud detection using Python & Machine Learning |
+| [📊 **SQL Data Analyst Project**](https://github.com/MohtashimUsmani/SQL-Data-Analyst-Project) | CTEs, Window Functions, Data Cleaning & Business Insights |
+| [🌐 **Django CMS Web Application**](https://github.com/MohtashimUsmani/Django-CMS-WebApp) | Authentication, CRUD, PostgreSQL & Responsive UI |
+| [📈 **Tesla vs GameStop Stock Analysis**](https://github.com/MohtashimUsmani/Gamestop-stock-vs-Tesla) | IBM Data Science guided project on financial data analysis |
 
 > 🔧 Replace `REPO-NAME-1..4` above with your actual repository names to activate the links.
 
