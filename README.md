@@ -105,9 +105,6 @@ fun_fact: "I turn coffee ☕ into clean pipelines and cleaner dashboards"
 </table>
 
 </div>
-
-> 🔧 **Adding a new badge later?** Just copy one `<td>` cell above, swap in the new image path, Credly link, and title. The 3-column grid auto-wraps, so the gallery stays tidy as it grows.
-
 <br/>
 
 ## 📚 IBM Data Science Professional Certificate — Progress
