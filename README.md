@@ -134,32 +134,14 @@ fun_fact: "I turn coffee ☕ into clean pipelines and cleaner dashboards"
 
 ## ⭐ Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/MohtashimUsmani/FinTech-Fraud-Detection-Pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohtashimUsmani&repo=REPO-NAME-1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/MohtashimUsmani/REPO-NAME-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohtashimUsmani&repo=REPO-NAME-2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-<br/>
-<a href="https://github.com/MohtashimUsmani/REPO-NAME-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohtashimUsmani&repo=REPO-NAME-3&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/MohtashimUsmani/REPO-NAME-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohtashimUsmani&repo=REPO-NAME-4&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
-
 | Project | Description |
 |---|---|
-| 💳 **FinTech-Fraud-Detection-Pipeline** | Enterprise-style fraud detection using Python & Machine Learning |
-| 📊 **SQL Data Analyst Project** | CTEs, Window Functions, Data Cleaning & Business Insights |
-| 🌐 **Django CMS Web Application** | Authentication, CRUD, PostgreSQL & Responsive UI |
-| 📈 **Tesla vs GameStop Stock Analysis** | IBM Data Science guided project on financial data analysis |
+| [💳 **FinTech Fraud Detection Pipeline**](https://github.com/MohtashimUsmani/REPO-NAME-1) | Enterprise-style fraud detection using Python & Machine Learning |
+| [📊 **SQL Data Analyst Project**](https://github.com/MohtashimUsmani/REPO-NAME-2) | CTEs, Window Functions, Data Cleaning & Business Insights |
+| [🌐 **Django CMS Web Application**](https://github.com/MohtashimUsmani/REPO-NAME-3) | Authentication, CRUD, PostgreSQL & Responsive UI |
+| [📈 **Tesla vs GameStop Stock Analysis**](https://github.com/MohtashimUsmani/REPO-NAME-4) | IBM Data Science guided project on financial data analysis |
 
-> 🔧 Replace `REPO-NAME-1..4` above with your actual repository names to activate live pin cards.
+> 🔧 Replace `REPO-NAME-1..4` above with your actual repository names to activate the links.
 
 <br/>
 
