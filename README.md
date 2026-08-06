@@ -200,7 +200,7 @@ fun_fact: "I turn coffee ☕ into clean pipelines and cleaner dashboards"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mohtashim-usmani/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/mohtashim-usmani/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://YOUR_PORTFOLIO](https://www.mohtashimusmani.me))
 [![Credly](https://img.shields.io/badge/Credly-FF6900?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mohtashim-usmani/edit/badges/credly)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohtashimusmani09@gmail.com)
