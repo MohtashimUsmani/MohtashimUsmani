@@ -136,7 +136,7 @@ fun_fact: "I turn coffee ☕ into clean pipelines and cleaner dashboards"
 
 <div align="center">
 
-<a href="https://github.com/MohtashimUsmani/REPO-NAME-1">
+<a href="https://github.com/MohtashimUsmani/FinTech-Fraud-Detection-Pipeline">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohtashimUsmani&repo=REPO-NAME-1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 <a href="https://github.com/MohtashimUsmani/REPO-NAME-2">
