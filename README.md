@@ -154,7 +154,7 @@ fun_fact: "I turn coffee ☕ into clean pipelines and cleaner dashboards"
 
 | Project | Description |
 |---|---|
-| 💳 **FinTech Fraud Detection Pipeline** | Enterprise-style fraud detection using Python & Machine Learning |
+| 💳 **FinTech-Fraud-Detection-Pipeline** | Enterprise-style fraud detection using Python & Machine Learning |
 | 📊 **SQL Data Analyst Project** | CTEs, Window Functions, Data Cleaning & Business Insights |
 | 🌐 **Django CMS Web Application** | Authentication, CRUD, PostgreSQL & Responsive UI |
 | 📈 **Tesla vs GameStop Stock Analysis** | IBM Data Science guided project on financial data analysis |
