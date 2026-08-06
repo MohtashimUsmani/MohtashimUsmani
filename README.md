@@ -162,7 +162,7 @@ fun_fact: "I turn coffee ☕ into clean pipelines and cleaner dashboards"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohtashimUsmani&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-trophies.vercel.app/?username=MohtashimUsmani&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
