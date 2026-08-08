@@ -147,10 +147,10 @@ fun_fact: "I turn coffee ☕ into clean pipelines and cleaner dashboards"
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=MohtashimUsmani&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"/>
+
 <img height="165" src="https://github-readme-stats-nine-teal-55.vercel.app/api?username=MohtashimUsmani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&count_private=true"/>
 <img height="165" src="https://github-readme-stats-nine-teal-55.vercel.app/api/top-langs/?username=MohtashimUsmani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff"/>
-
-<img src="https://streak-stats.demolab.com?user=MohtashimUsmani&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohtashimUsmani&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff" width="100%"/>
 
