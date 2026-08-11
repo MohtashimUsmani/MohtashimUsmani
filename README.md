@@ -155,7 +155,7 @@ fun_fact: >
 | 3 | Data Science Methodology | ✅ Done |
 | 4 | Python for Data Science & AI | ✅ Done |
 | 5 | Python Project for Data Science | ✅ Done |
-| 6 | Databases and SQL for Data Science | ⬜ Upcoming |
+| 6 | Databases and SQL for Data Science | ✅ Done |
 | 7 | Data Analysis with Python | ⬜ Upcoming |
 | 8 | Data Visualization with Python | ⬜ Upcoming |
 | 9 | Machine Learning with Python | ⬜ Upcoming |
