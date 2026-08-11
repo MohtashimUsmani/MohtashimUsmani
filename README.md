@@ -142,11 +142,6 @@ fun_fact: >
 
 ## 📚 IBM Data Science Professional Certificate — Progress
 
-<div align="center">
-
-<img src="assets/ibm-progress.svg" width="560"/>
-
-</div>
 
 | # | Course | Status |
 |:-:|---|:-:|
