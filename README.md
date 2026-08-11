@@ -121,6 +121,12 @@ fun_fact: >
       </a>
       <br/><b>Python Project for<br/>Data Science</b>
     </td>
+    <br/><b>Databases and SQL<br/>for Data Science</b>
+    </td>
+    <td align="center" width="180">
+      <a href="https://www.credly.com/badges/7084ee89-755b-4e6a-a27e-27b94e3c140e/public_url">
+        <img src="assets/badges/data-science-methodology.png" width="140"/>
+      </a>
     <td align="center" width="180">
       <a href="https://www.credly.com/users/mohtashim-usmani/badges">
         <img src="https://img.shields.io/badge/%2B%20more-coming%20soon-1c1c1c?style=for-the-badge&logo=credly&logoColor=orange&labelColor=000000" width="140"/>
