@@ -144,7 +144,7 @@ fun_fact: >
 
 | Project | Description |
 |---|---|
-| [📈 **IBM-Data-Science-Professional-Certificate**](https://github.com/MohtashimUsmani/IBM-Data-Science-Professional-Certificate) | IBM Data Science Coursework, Labs & Projects |
+| [📈 **IBM-Data-Science-Professional-Certificate**](https://github.com/MohtashimUsmani/IBM-Data-Science-Professional-Certificate) | IBM Data Science repository showcases the final labs and graded final projects  |
 | [💳 **FinTech Fraud Detection Pipeline**](https://github.com/MohtashimUsmani/FinTech-Fraud-Detection-Pipeline) | Enterprise-style fraud detection using Python & Machine Learning |
 | [📊 **SQL Data Analyst Project**](https://github.com/MohtashimUsmani/SQL-Data-Analyst-Project) | CTEs, Window Functions, Data Cleaning & Business Insights |
 | [🌐 **Django CMS Web Application**](https://github.com/MohtashimUsmani/Django-CMS-WebApp) | Authentication, CRUD, PostgreSQL & Responsive UI |
