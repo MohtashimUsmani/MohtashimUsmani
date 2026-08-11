@@ -140,26 +140,6 @@ fun_fact: >
 
 <br/>
 
-## 📚 IBM Data Science Professional Certificate — Progress
-
-
-| # | Course | Status |
-|:-:|---|:-:|
-| 1 | Data Science Orientation | ✅ Done |
-| 2 | Tools for Data Science | ✅ Done |
-| 3 | Data Science Methodology | ✅ Done |
-| 4 | Python for Data Science & AI | ✅ Done |
-| 5 | Python Project for Data Science | ✅ Done |
-| 6 | Databases and SQL for Data Science | ✅ Done |
-| 7 | Data Analysis with Python | ⬜ Upcoming |
-| 8 | Data Visualization with Python | ⬜ Upcoming |
-| 9 | Machine Learning with Python | ⬜ Upcoming |
-| 10 | Applied Data Science Capstone | ⬜ Upcoming |
-| 11 | Generative AI: Elevate your Data Science Career | ⬜ Upcoming |
-| 12 | Data Scientist Career Guide & Interview Prep | ⬜ Upcoming |
-
-<br/>
-
 ## ⭐ Featured Projects
 
 | Project | Description |
