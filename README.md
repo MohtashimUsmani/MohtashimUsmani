@@ -124,8 +124,8 @@ fun_fact: >
     <br/><b>Databases and SQL<br/>for Data Science</b>
     </td>
     <td align="center" width="180">
-      <a href="https://www.credly.com/badges/7084ee89-755b-4e6a-a27e-27b94e3c140e/public_url">
-        <img src="assets/badges/data-science-methodology.png" width="140"/>
+      <a href="https://www.credly.com/badges/53c88324-167b-437a-9e45-56d3372f706b/public_url">
+        <img src="assets/badges/databases-and-sql-for-data-science.png" width="140"/>
       </a>
     <td align="center" width="180">
       <a href="https://www.credly.com/users/mohtashim-usmani/badges">
