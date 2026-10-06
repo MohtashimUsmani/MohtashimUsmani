@@ -109,9 +109,9 @@ fun_fact: >
     </td>
     <td align="center" width="180">
       <a href="https://www.credly.com/badges/97647414-45ab-4957-9fdd-f654cb239f80/public_url">
-        <img src="assets/badges/data-science-orientation.png" width="140"/>
+        <img src="assets/badges/data-visualization-with-python.png" width="140"/>
       </a>
-      <br/><b>Data Science<br/>Orientation</b>
+      <br/><b>Data Visualization<br/>with Python</b>
     </td>
   </tr>
   <tr>
