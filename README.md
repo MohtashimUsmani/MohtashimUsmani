@@ -107,6 +107,12 @@ fun_fact: >
       </a>
       <br/><b>Tools for<br/>Data Science</b>
     </td>
+    <td align="center" width="180">
+      <a href="https://www.credly.com/badges/97647414-45ab-4957-9fdd-f654cb239f80/public_url">
+        <img src="assets/badges/data-science-orientation.png" width="140"/>
+      </a>
+      <br/><b>Data Science<br/>Orientation</b>
+    </td>
   </tr>
   <tr>
     <td align="center" width="180">
